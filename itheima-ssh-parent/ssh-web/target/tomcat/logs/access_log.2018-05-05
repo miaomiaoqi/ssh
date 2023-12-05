@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [05/May/2018:22:10:00 +0800] "GET /customerAction_findByCustId?custId=2 HTTP/1.1" 200 260 http-bio-8088-exec-1 969
+0:0:0:0:0:0:0:1 - - [05/May/2018:22:10:03 +0800] "GET /customerAction_findByCustId?custId=1 HTTP/1.1" 200 260 http-bio-8088-exec-5 10
+0:0:0:0:0:0:0:1 - - [05/May/2018:22:11:00 +0800] "GET //customerAction_findByCustId?custId=1 HTTP/1.1" 200 260 http-bio-8088-exec-1 390
+0:0:0:0:0:0:0:1 - - [05/May/2018:22:11:03 +0800] "GET //customerAction_findByCustId?custId=2 HTTP/1.1" 200 260 http-bio-8088-exec-4 10
